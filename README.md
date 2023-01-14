@@ -43,3 +43,14 @@ sudo dpkg -i (package location)]
 sudo apt install gnome-tweaks -y
 sudo apt install gnome-shell-extensions
 ```
+
+
+## 🧑‍💻 Contributors
+- [@Ali Hossain](https://github.com/shovoalways/)
+
+
+## 🥰 Follow me
+- [@Github](https://github.com/shovoalways/) 
+- [@Facebook](https://facebook.com/shovoalways/) 
+- [@Twitter](https://twitter.com/shovoalways/) 
+- [@Instagram](https://instagram.com/shovoalways/) 
