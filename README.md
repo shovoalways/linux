@@ -44,6 +44,14 @@ sudo apt install gnome-tweaks -y
 sudo apt install gnome-shell-extensions
 ```
 
+### Taskbar app click to open
+```bash
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+```
+
+
+
+
 ### Install Theme
 https://www.gnome-look.org/p/1619506
 Create Two folder on home directory and press Ctrl + H then create .themes & .icons
