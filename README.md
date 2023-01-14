@@ -42,6 +42,7 @@ sudo dpkg -i (package location)]
 ```bash
 sudo apt install gnome-tweaks -y
 sudo apt install gnome-shell-extensions
+sudo apt install gnome-shell-extension-manager
 ```
 
 ### Taskbar app click to open
