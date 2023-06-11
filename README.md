@@ -51,7 +51,18 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 ```
 
 
+### Curl
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+```
 
+
+### To install the latest Node.js
+```bash
+nvm install node
+
+nvm install --lts
+```
 
 ### Install Theme
 https://www.gnome-look.org/p/1619506
